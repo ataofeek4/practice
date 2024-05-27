@@ -1,0 +1,38 @@
+h1{
+    color: blueviolet;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    text-decoration: none;
+    padding-right: 20px;
+}
+.footer{
+    justify-content: center;
+    display: flex;
+    background-color: blueviolet;
+    border-radius: 5px;
+    width: 99%;
+
+}
+.footer a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+.header{
+    justify-content: center;
+    display: flex;
+    background-color: blueviolet;
+    border-radius: 5px;
+    width: 99%;
+
+
+}
+.header a{
+    text-decoration: none;
+    color: white;
+
+}
